@@ -1,16 +1,9 @@
-# imc_flutter_calculator
+# Desafio_Dio_Imc_Flutter
 
-A new Flutter project.
+## Atualização do desafio Calculadora IMC
+O desafio anterior foi criado a calculadora imc, utilizando apenas a linguagem dart. (https://github.com/esdrasccs/Desafio_DIO_Imc). Nesta nova versão é utilizado o flutter para criar a interface.  O app tem funções de calcular imc e adicionar a uma lista.
+Editar o resultado na lista dando um duplo clik ou excluir dando um clik longo.
 
-## Getting Started
+## Video demonstrativo
+https://github.com/esdrasccs/Desafio_Dio_Imc_Flutter/assets/72303129/134107c9-6d0f-43d0-aaeb-a6ff5831977a
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
