@@ -1,4 +1,5 @@
 # Desafio_Dio_Imc_Flutter
 ATUALIZAÇÃO DO DESAFIO DIO IMC ANTERIOR, QUE FOI UTILIZANDO A LINGUAGEM DART APENAS.   NESTA NOVA VERSÃO É UTILIZADO O FLUTTER PARA CRIAR A INTERFACE.  O APP TEM FUNÇÕES DE CALCULAR IMC, ADICIONAR A UMA LISTA ONDE É POSSIVEL EDITAR O RESULTADO DANDO UM DUPLO CLIK OU EXCLUIR DANDO UM CLIK CONTINUO.
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/lzpKiRClYeA)https://youtu.be/lzpKiRClYeA)
+https://github.com/esdrasccs/Desafio_Dio_Imc_Flutter/assets/72303129/134107c9-6d0f-43d0-aaeb-a6ff5831977a
+
